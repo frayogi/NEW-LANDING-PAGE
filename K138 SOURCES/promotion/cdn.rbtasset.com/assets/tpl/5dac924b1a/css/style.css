@@ -1,0 +1,1045 @@
+a:hover {
+    color: #000
+}
+
+a:not([href]):not([tabindex]) {
+    color: #fff
+}
+
+h3 {
+    text-align: left
+}
+
+input[type=text],
+input[type=password],
+input[type=email] {
+    outline: none
+}
+
+select {
+    outline: none
+}
+
+/*-----------------------------------------------------------*/
+
+#ReloadCaptcha,
+#ReloadCaptchaLogin,
+#ReloadCaptchaRegister {
+    cursor: pointer
+}
+
+#iconCheck,
+#ReloadCaptcha,
+#ReloadCaptchaLogin,
+#ReloadCaptchaRegister {
+    line-height: 32px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+.form-group.validation-error {
+    color: #D32F2F
+}
+
+.form-group.validation-pass i {
+    color: #388E3C;
+    opacity: 1
+}
+
+.top-nav {
+    background: none;
+    color: #fff
+}
+
+/*.index-body{background: #000 no-repeat fixed;background-size:100% 100%}*/
+
+.index-body {
+    background: url(../images/background.jpg) no-repeat fixed;
+    background-size: 100% 100%;
+}
+
+/*-------------------------                    end of topnav                   ----------------------------------*/
+
+/*-------------------------                       header                   ----------------------------------*/
+
+.header {
+    background: none;
+}
+
+.newsInfo .marquee {
+    font-weight: bold;
+    color: #fff;
+}
+
+.newsInfo>i {
+    color: #fff;
+}
+
+.logo {
+    margin-left: 40px;
+    max-height: 27px;
+    margin-top: -6px;
+    transform: scale(2.2);
+}
+
+input[type=text].login-form,
+input[type=password].login-form,
+input[type=email].login-form {
+    background-color: #fff;
+    color: #000;
+}
+
+.indicator {
+    left: 25px
+}
+
+.bank {
+    background: url(../images/bank-bg.png);
+    background-size: 100% 100%;
+    border: 0;
+}
+
+.bank>div {
+    background: url(../images/bank.png) no-repeat;
+    background-size: 200%;
+}
+
+.figure-text {
+    color: #fff;
+}
+
+.bank .bca {
+    background-position: -106px -1px
+}
+
+.bank .permata {
+    background-position: -106px -35px
+}
+
+.bank .mandiri {
+    background-position: -106px -66px
+}
+
+.bank .bni {
+    background-position: -106px -104px
+}
+
+.bank .danamon {
+    background-position: -106px -139px
+}
+
+.bank .cimb {
+    background-position: -106px -170px
+}
+
+.bank .bri {
+    background-position: -106px -200px
+}
+
+.bank .ovo {
+    background-position: -106px -233px
+}
+
+.bank .gopay {
+    background-position: -106px -267px
+}
+
+.bank .xl {
+    background-position: -106px -299px
+}
+
+.bank .simpati {
+    background-position: -106px -330px
+}
+
+.bank .dana {
+    background-position: -106px -359px
+}
+
+.bank .linkaja {
+    background-position: -106px -393px
+}
+
+.bank .panin {
+    background-position: -106px -421px
+}
+
+.bank .sakuku {
+    background-position: -106px -452px
+}
+
+.bank .bsi {
+    background-position: -106px -484px
+}
+
+.bank .tri {
+    background-position: -106px -519px
+}
+
+.bank .neo {
+    background-position: -106px -554px
+}
+
+.bank .jenius {
+    background-position: -106px -593px
+}
+
+.bank .bca:hover {
+    background-position: -3px -1px
+}
+
+.bank .permata:hover {
+    background-position: -3px -35px
+}
+
+.bank .mandiri:hover {
+    background-position: -3px -66px
+}
+
+.bank .bni:hover {
+    background-position: -3px -104px
+}
+
+.bank .danamon:hover {
+    background-position: -3px -139px
+}
+
+.bank .cimb:hover {
+    background-position: -3px -170px
+}
+
+.bank .bri:hover {
+    background-position: -3px -200px
+}
+
+.bank .ovo:hover {
+    background-position: -3px -233px
+}
+
+.bank .gopay:hover {
+    background-position: -3px -267px
+}
+
+.bank .xl:hover {
+    background-position: -3px -299px
+}
+
+.bank .simpati:hover {
+    background-position: -3px -330px
+}
+
+.bank .dana:hover {
+    background-position: -3px -359px
+}
+
+.bank .linkaja:hover {
+    background-position: 4px -393px
+}
+
+.bank .panin:hover {
+    background-position: -3px -421px
+}
+
+.bank .sakuku:hover {
+    background-position: -3px -452px
+}
+
+.bank .bsi:hover {
+    background-position: -3px -484px
+}
+
+.bank .tri:hover {
+    background-position: -3px -519px
+}
+
+.bank .neo:hover {
+    background-position: -3px -554px
+}
+
+.bank .jenius:hover {
+    background-position: -3px -593px
+}
+
+.user-info>li:last-child>a {
+    padding-right: 0
+}
+
+.user-info a:not([href]):not([tabindex]) {
+    color: #fff
+}
+
+.user-info-balance {
+    border: 1px solid #ecc83f;
+    background-color: #000
+}
+
+.popover-balance-content {
+    border: 1px solid #000;
+    background-color: #000
+}
+
+.bttn-check,
+.bttn-banking {
+    color: white
+}
+
+.bttn-banking,
+.bttn-banking:hover {
+    background: url(../images/btn-login.png) no-repeat;
+    background-size: 100% 100%;
+    border: none;
+    color: #fff;
+}
+
+/* .bttn-banking,.bttn-banking:hover{background-color:#000} */
+
+#calibrate {
+    border-left: 1px solid #000
+}
+
+.pop-wallet>tfoot {
+    border-top: 1px solid #000
+}
+
+.pop-wallet>thead {
+    border-bottom: 1px solid #000
+}
+
+.bttn-calibrate {
+    background-color: #ecc83f;
+    color: #000;
+}
+
+/*-------------------------                    end of header                   ----------------------------------*/
+
+/*-------------------------                    navbar                   ----------------------------------*/
+
+.navbar [class^=icon_] {
+    background-image: url(../images/icon_nav.png);
+    background-repeat: no-repeat;
+    /* filter: drop-shadow(0px 0px 3px #b78f1e); */
+}
+
+.navbar {
+    background: url(../images/menu.png) repeat-x;
+    background-size: 100% 100%;
+    border-top: none;
+    border-bottom: none;
+    padding: .4rem 1rem;
+}
+
+.navbar ul {
+    margin-top: -2px
+}
+
+.navbar a {
+    text-shadow: none;
+    font-weight: bold;
+    color: #000000;
+    -webkit-filter: none;
+    filter: none;
+}
+
+.subnavbar {
+    background: rgb(0, 0, 0, 0.8);
+    border-bottom: 2px groove #0095fd;
+}
+
+.subnavbar .gameNav a {
+    -webkit-filter: drop-shadow(0px 0px 1px #2e2600);
+    filter: drop-shadow(0px 0px 1px #2e2600);
+}
+
+.subnavbar .gameNav a:hover {
+    text-decoration: none;
+    background-color: inherit;
+    -webkit-filter: none;
+    filter: none;
+}
+
+.nav_name {
+    color: #d1aa29
+}
+
+.navbar .icon_cock_fighting {
+    background-position: center -884px
+}
+
+/*-------------------------                    end of navbar                   ----------------------------------*/
+
+/*-------------------------                    middle content                   ----------------------------------*/
+
+.middle-index {
+    background: none;
+}
+
+.box-middle {
+    padding: 0;
+    margin-top: 2px;
+    border: 2px groove #fff;
+}
+
+.rules-agreement-logo {
+    background: url(../images/footer.png) no-repeat;
+    background-size: 550px 45px
+}
+
+.title {
+    padding: 15px 0 10px 0;
+    border-bottom: 2px solid #ecc83f;
+    color: #28a745;
+    text-indent: 0px;
+    display: inline-block;
+    text-shadow: 2px 2px #000;
+}
+
+.liveitem a {
+    color: rgb(253, 252, 252);
+    border-color: #000 !important;
+    background-color: #ecc83f
+}
+
+.info_wrap .btn_close {
+    top: 4px
+}
+
+.row {
+    margin-right: -14px;
+    margin-left: -14px
+}
+
+.col-6 {
+    position: relative;
+    width: 100%;
+    padding-right: 22.5px;
+    padding-left: 22.5px;
+    flex: 0 0 50%;
+    max-width: 50%
+}
+
+.promotion-row_table {
+    text-align: center;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px
+}
+
+.promotion-row_table .currency-flag {
+    text-align: left;
+    display: block;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.promotion-row_table .currency-flag img {
+    padding-left: 20px
+}
+
+.table-heading {
+    background-color: #545252;
+    font-weight: 700
+}
+
+.table-heading .col-6 {
+    padding: 5px 0;
+    color: #fff;
+    font-weight: 700
+}
+
+.table-row {
+    padding: 4px 0;
+    font-size: 14px;
+    font-weight: 300
+}
+
+.table-row img {
+    height: 28px;
+    vertical-align: middle
+}
+
+.table-row-odd {
+    background-color: #7b767699
+}
+
+.table-row-even {
+    background-color: #c5c3c399
+}
+
+/*-------------------------                    end of middle content                   ----------------------------------*/
+
+/*-------------------------                    modal                   ----------------------------------*/
+
+.game-list:not(.maintenance):hover {
+    background-color: rgba(162, 132, 62, 0.66)
+}
+
+.modal-header {
+    background: #ecc83f;
+    background-size: 100% 100%;
+}
+
+.modal-title {
+    font-weight: bold;
+    color: rgb(2, 2, 2);
+}
+
+/* .modal-header h5{color: #000;} */
+
+/* .wrap-provider-list{margin-bottom:20px;border-bottom:2px solid #bc8123} */
+
+/*-------------------------                    end of modal                   ----------------------------------*/
+
+/*-------------------------                    multiuse                   ----------------------------------*/
+
+#checkAvailability,
+#iconCheck {
+    display: inline-block
+}
+
+.bttn-login,
+.bttn-logout,
+.bttn-register {
+    width: 75px;
+    border-radius: 5px;
+    font-weight: bold
+}
+
+.bttn-login,
+.bttn-check {
+    background: url(../images/btn-login.png) no-repeat;
+    background-size: 100% 100%;
+    border: none;
+    color: #fff;
+}
+
+.bttn-logout,
+.bttn-register {
+    background: url(../images/btn-register.png) no-repeat;
+    background-size: 100% 100%;
+    border: none;
+    color: #fff;
+}
+
+.bttn-login:active {
+    background-color: #d40b15;
+    color: #fff
+}
+
+.bttn-register:active {
+    background-color: #fbf211
+}
+
+.game>a,
+.login-box>a {
+    cursor: pointer
+}
+
+#GameCategory a:hover,
+#GameCategory a.active,
+#PromotionCategory a:hover,
+#PromotionCategory a.active {
+    background-color: #ecc83f;
+    color: #fff;
+}
+
+.game-list {
+    padding: 0 10px;
+    position: relative
+}
+
+.game-list:hover {
+    background-color: #927b03
+}
+
+.game-list:hover .btn-game {
+    display: block
+}
+
+.game-list-content>button {
+    background-color: #ecc83f;
+    color: rgb(4, 4, 4);
+}
+
+/*-------------------------                    popup banner                          ----------------------------------*/
+
+.sub_color {
+    background-color: #2c2c2c
+}
+
+.reward_pop {
+    background-color: #f5f5f5
+}
+
+/*-------------------------                    end of popup banner                   ----------------------------------*/
+
+/************************* footer *********************************/
+
+.footer {
+    background: unset;
+    background-size: 100% 100%;
+}
+
+.footer h1,
+.footer h2,
+.footer h3 {
+    font-weight: bold;
+    color: #fff
+}
+
+.footer-copyright {
+    background-color: #000;
+    padding: 10px 0;
+    text-align: center;
+    text-transform: uppercase
+}
+
+.category {
+    width: 100%;
+    border-bottom: 1px solid #273642;
+    line-height: .1em;
+    margin: 10px 0 20px
+}
+
+.category span {
+    background: #010f02;
+    padding: 0 10px
+}
+
+.form-group [class*=col-] {
+    margin-bottom: 0
+}
+
+#RegisterForm .form-group input[type="text"],
+#RegisterForm .form-group input[type="password"],
+#RegisterForm .form-group input[type="email"] {
+    font-size: 0.775rem;
+    border: 1px solid #757575;
+    background-color: #fff;
+    border-radius: 4px;
+    color: #000000;
+}
+
+input[type="text"].login-form,
+input[type="password"].login-form,
+input[type="email"].login-form {
+    border: 2px solid #000;
+    background: #fff;
+    color: #000;
+}
+
+/**************           popup top bar                                 ***********/
+
+.account_hd {
+    background-color: transparent
+}
+
+.account_hd .logout,
+.account_hd .logout:hover {
+    background-color: #f30015;
+    color: #000 !important
+}
+
+.account_hd ul {
+    display: block;
+    font-size: .8125rem;
+    float: right;
+    zoom: 1;
+    margin: 0;
+    padding: 0
+}
+
+.account_hd a {
+    display: block;
+    color: #000
+}
+
+.account_hd .livehelp,
+.account_hd .userid {
+    padding-left: 26px
+}
+
+.account_hd .livehelp {
+    background-position: 0 -742px
+}
+
+.account_hd .livehelp:hover {
+    background-position: 0 -773px;
+    color: #2ccad7;
+    text-decoration: none
+}
+
+.popup-header-time {
+    margin-left: 15px;
+    font-size: 13px
+}
+
+/**************           end of popup top bar                                ***********/
+
+/**************           popup menu bar                                 ***********/
+
+.account_nav {
+    background-color: #000
+}
+
+.account_nav ul a:hover,
+.account_nav ul a.choice {
+    color: #ecc83f;
+    border-bottom-color: #000
+}
+
+/**************           end of popup menu bar                                 ***********/
+
+/**************           popup content bar                                 ***********/
+
+.con_box:not(.account_list) {
+    background: none;
+}
+
+.con_item h4 {
+    padding: 15px 0 10px 0;
+    text-indent: 0;
+    border-bottom: 2px solid #000
+}
+
+.con_item h4:before {
+    border-left: none
+}
+
+.con_item .info_type {
+    background-color: #232323;
+    border: 1px #4c4c4c solid;
+    color: #888
+}
+
+.conlist li:hover,
+.conlist li.selected {
+    background-color: #a8a3a3;
+    color: #000
+}
+
+.form-group select {
+    background-color: #fff
+}
+
+.popup-body {
+    background-color: #2c2c2c
+}
+
+.popup-body .form-group input[type="text"],
+.popup-body .form-group input[type="password"] {
+    margin-top: 0;
+    border: 1px solid #757575;
+    background-color: #fff;
+    color: #212121;
+}
+
+.btn_type input[type=submit],
+.btn_type input[type=button],
+.btn_type input[type=reset] {
+    background-color: #ecc83f;
+    color: #000;
+}
+
+.wallet .primary dd,
+.wallet .total dd {
+    color: #fff;
+}
+
+.btn_type .btn_default:hover {
+    background-color: #000
+}
+
+.account_list {
+    min-width: 930px;
+    padding: 20px;
+    box-shadow: 0 -1px 1px rgba(0, 0, 0, .3);
+    color: #000
+}
+
+.account_list.embed_account_list {
+    background-color: #000
+}
+
+.account_list h4:before {
+    border-left-color: #000
+}
+
+.account_list .account_info {
+    border-bottom: unset
+}
+
+.account_list .account_info thead {
+    background-color: #ecc83f
+}
+
+.account_list .account_info th {
+    color: #000
+}
+
+.date_list input[type="text"],
+.date_list input[type="password"] {
+    border-color: #757575;
+    color: #000
+}
+
+.date_list button {
+    width: 136px;
+    height: 32px;
+    line-height: 32px;
+    background-color: #ecc83f;
+    color: rgb(5, 5, 5);
+    outline: none;
+}
+
+.bonus-provider-list a {
+    filter: unset;
+}
+
+.date_list li:first-child {
+    color: #fff
+}
+
+.datepicker table tr td.active.active,
+.datepicker table tr td.active:active,
+.datepicker table tr td.active:hover,
+.datepicker table tr td.active:hover.active,
+.datepicker table tr td.active:hover:active,
+.datepicker table tr td.active:hover:hover {
+    background: #000;
+    color: #fff;
+}
+
+.form-group .transcash .cash {
+    border: 1px solid #757575;
+    background-color: #fff;
+    color: #000
+}
+
+.wallet {
+    margin: 1% 0% 0 2%;
+    border: 1px solid #848484;
+    background-color: #ececec;
+    float: right;
+    padding: 0
+}
+
+.wallet .total,
+.wallet .primary {
+    color: #000
+}
+
+.wallet .total .btn_total,
+.wallet .primary .btn_total {
+    background: linear-gradient(180deg, #ecc83f 0%, #ecc83f 50%, #ecc83f 100%);
+    color: rgb(7, 7, 7);
+}
+
+.wallet .content-inner .icon_dropdown {
+    position: relative;
+    margin: 3px 6px 0 0;
+    width: 18px;
+    height: 18px;
+    display: block;
+    background-color: #757575;
+    padding-left: 3px;
+    padding-top: 2px;
+    -webkit-border-radius: 50%;
+    -mos-border-radius: 50%;
+    border-radius: 50%;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    float: left;
+    padding: 2px;
+}
+
+.conlist {
+    border: 1px solid #459e00
+}
+
+.conlist h5 {
+    padding: 0 8px;
+    text-transform: uppercase;
+    color: #383838;
+    font-weight: 700;
+    line-height: 30px;
+    font-size: 0.8125rem;
+}
+
+.validation-error .input-field {
+    border-color: #D32F2F
+}
+
+.validation-error i {
+    overflow: visible;
+    opacity: 1
+}
+
+.validation-close i {
+    color: #424242;
+    overflow: visible;
+    opacity: 1
+}
+
+/*Bonus Module 9 September 2020*/
+
+.bonus-wrapper .nav-tabs .nav-link.active {
+    border-bottom: 5px solid #000;
+    color: #19191b
+}
+
+.bonus-wrapper .nav-tabs {
+    border-bottom: 1px solid #000
+}
+
+.bonus-wrapper .nav-tabs .nav-link:hover {
+    color: #000;
+    background: #ecc83f;
+}
+
+.bonus-provider-list li:hover {
+    background-color: #ecc83f !important
+}
+
+.bonus-provider-list li.active a {
+    border-bottom: 2px solid #f00;
+    font-weight: 700;
+    background-color: #ecc83f;
+    color: #000;
+}
+
+.bonus-provider-list span {
+    color: #000;
+}
+
+.mainPvLs {
+    background-color: rgba(162, 132, 62, 0.66);
+}
+
+.bonus-item {
+    border-color: #000;
+    background-color: rgb(255, 143, 0) !important;
+    outline: none;
+    color: #fff
+}
+
+.isNewPlayer {
+    background: #000;
+    color: #000
+}
+
+.bonus-button.active {
+    background-color: #000;
+    color: #38260a;
+    border-color: rgb(252, 219, 9)
+}
+
+.bonus-button.active:hover {
+    background-color: #000;
+    cursor: pointer;
+    color: #000
+}
+
+.bonus-name {
+    color: #000
+}
+
+.bonus-button.btn-await-approval {
+    background-color: #000;
+    color: #fff
+}
+
+.progress-value {
+    background: linear-gradient(180deg, rgba(240, 229, 128, 0.8) 0, #ecc83f 100%)
+}
+
+/*MENUBAR TEMPLATE 1*/
+
+.futuristic .gameNav a>span {
+    padding: 3px 6px;
+    line-height: 30px;
+    height: 30px;
+    border: 1px solid #fff !important;
+    border-radius: 10px;
+    color: #ffffff !important;
+    font-weight: normal !important;
+    font-size: 0.675rem;
+}
+
+.futuristic .gameNav>li:hover .icon-menu-wrapper {
+    border-color: #ece2e2 !important;
+}
+
+.futuristic .gameNav>li:hover span:not(.icon-new) {
+    background-color: #f00 !important;
+    color: #fff !important;
+}
+
+.futuristic .icon-menu-wrapper {
+    border-color: #fff !important;
+    background: linear-gradient(90deg, #ecc83f, #b48818, #000);
+    height: 95px;
+}
+
+/************ Progressive Jackpot ***********/
+
+.progressive-jackpot {
+    filter: unset;
+    padding-bottom: 8px
+}
+
+/* #jackpot{color: #000;} */
+
+.jackpot-wrapper {
+    filter: unset;
+}
+
+.progressive-jackpot img {
+    filter: unset;
+    width: 100%;
+    background-size: 100% 100%;
+}
+
+#jackpot {
+    padding-top: 13px;
+}
+
+.progressive-jackpot h2 {
+    box-shadow: none;
+    background-image: url(../images/jackpot.png);
+    border: none;
+    color: transparent;
+    text-shadow: none;
+    display: inline-block;
+    z-index: 3 !important;
+    display: none;
+}
+
+/********* Provider List near footer *********/
+
+#ProviderList .pgs,
+#ProviderList .pgs:hover {
+    background-position: left -1332px
+}
+
+/* #ProviderList{ border-bottom: 1px solid #000;} */
+
+/* Favorite */
+
+.filter-tools a:hover,
+.filter-tools a.selected {
+    background: radial-gradient(circle, transparent 1%, #ecc83f 1%) center center / 15000% #ecc83f;
+    border: 1px solid rgb(44 44 44 / 0.7);
+    color: #fff;
+}
+
+/* .index-body{color:#28a745} */
+
+a:not([href]):not([tabindex]):focus,
+a:not([href]):not([tabindex]):hover {
+    color: #fff;
+}
